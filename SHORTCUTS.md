@@ -21,3 +21,5 @@ The limit as x approaches 0 of sin(x)/x = sin(x)'/x' = 1
 Log Function Shortcut:
 (loga(x))' = 1/x * ln(a)
 (ln(x))' = 1/x * ln(e)
+
+-- Bradley Essegian
