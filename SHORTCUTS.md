@@ -17,3 +17,9 @@ Ctrl + shift + tab = jump to previous window
 Indeterminate Form Shortcut:
 According to L'Hospital's Rule, you can evaluate the limit of an indeterminate form by taking the derivative of f(x) divided by the derivative of g(x). For example:
 The limit as x approaches 0 of sin(x)/x = sin(x)'/x' = 1
+
+Log Function Shortcut:
+(loga(x))' = 1/x * ln(a)
+(ln(x))' = 1/x * ln(e)
+
+-- Bradley Essegian
